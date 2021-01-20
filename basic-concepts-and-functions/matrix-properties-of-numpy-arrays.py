@@ -1,7 +1,9 @@
 """
-This module shows matrix as Numpy objects, emphasizing some matrix properties.
+This module shows matrices as Numpy objects, emphasizing some matrix properties
+and operations.
 """
 import numpy as np
+from numpy import linalg
 
 np.eye(3)
 # array([[1., 0., 0.],
@@ -33,3 +35,19 @@ I = np.eye(2)
 A @ I
 # array([[1, 2],
 #        [3, 4]])
+
+linalg.det(A) # -2.000000000000004
+linalg.inv(A)
+# array ([[-2. , 1. ]],
+#         [1.5 , -0.5]])
+
+Ainv = linalg.inv(A)
+Ainv @ A
+# Approximately
+# array([[1., 0.]],
+#        [0., 1.]])
+
+A @ Ainv
+# Approximetaly
+# array([[1., 0.]],
+#        [0., 1.]])
