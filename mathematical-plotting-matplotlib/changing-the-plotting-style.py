@@ -12,4 +12,8 @@ y3 = np.array([3.2, 1.1, 2.0, 3.9, 2.5])
 fig, ax = plt.subplots()
 
 lines = ax.plot(y1, 'o', y2, 'x', y3, '*')
+
+ax.set_title("Plot of the data y1, y2, and y3")
+ax.set_ylabel("y axis label")
+ax.set_xlabel("x axis label")
 plt.show()
