@@ -16,4 +16,6 @@ lines = ax.plot(y1, 'o', y2, 'x', y3, '*')
 ax.set_title("Plot of the data y1, y2, and y3")
 ax.set_ylabel("y axis label")
 ax.set_xlabel("x axis label")
+ax.legend(("data y1", "data y2", "data y3"))
+
 plt.show()
