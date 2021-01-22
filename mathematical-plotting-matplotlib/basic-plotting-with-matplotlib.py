@@ -12,3 +12,6 @@ y = f(x)
 
 ax = plt.plot(x, y)
 plt.show()
+
+lines = plt.plot(x, f(x), x, x**2, x, x-1)
+plt.show()
