@@ -14,6 +14,10 @@ Directories
 
 This directory contains core mathematical concepts and structures and their Python representations. Some examples are basic numerical types, basic mathematical functions (i.e. trigonometric, exponentia, logarithms, etc), and matrices.
 
+### [Mathematical Plotting with Matplotlib](mathematical-plotting-matplotlib)
+
+This directory contains modules that plot functions and data in a variety of styles, creating figures that are fully labeled and annotated. Includes also three-dimensional plots and its customization.
+
 License
 =======
 [The MIT License](LICENSE)
