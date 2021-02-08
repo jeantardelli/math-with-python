@@ -18,6 +18,10 @@ This directory contains core mathematical concepts and structures and their Pyth
 
 This directory contains modules that plot functions and data in a variety of styles, creating figures that are fully labeled and annotated. Includes also three-dimensional plots and its customization.
 
+### [Calculus and Differential Equations](calculus-and-differential-equations)
+
+This directory contains various topics related to calculus such as polynomials, differentials and integrations, solving equations or system of equations and fast Fourier Transform for signals processing.
+
 License
 =======
 [The MIT License](LICENSE)
