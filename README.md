@@ -22,6 +22,10 @@ This directory contains modules that plot functions and data in a variety of sty
 
 This directory contains various topics related to calculus such as polynomials, differentials and integrations, solving equations or system of equations and fast Fourier Transform for signals processing.
 
+### [Randomness and Probability](randomness-and-probability)
+
+This directoy contains code related to randomness and probability. Here you will find code that explores the fundamental of probability (such as selecting elements from a set of data) or (pseudo) random numbers generation. Some modules illustrates Bayesian techniques and Markov chain Monte Carlo methods to estimate parameters on a simple model.
+
 License
 =======
 [The MIT License](LICENSE)
