@@ -26,6 +26,10 @@ This directory contains various topics related to calculus such as polynomials, 
 
 This directoy contains code related to randomness and probability. Here you will find code that explores the fundamental of probability (such as selecting elements from a set of data) or (pseudo) random numbers generation. Some modules illustrates Bayesian techniques and Markov chain Monte Carlo methods to estimate parameters on a simple model.
 
+### [Trees and Networks](trees-and-networks)
+
+This directory contains code related to trees and networds. Networks are objects that contain nodes and edges between pairs of nodes. They can be used to represent a wide variety of real-world situations, such as distribution and scheduling. The modules contained here explore how to create, characterize and search minimal paths in networks.
+
 License
 =======
 [The MIT License](LICENSE)
