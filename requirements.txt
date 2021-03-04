@@ -8,3 +8,4 @@ dask==2.18.1
 sympy
 pymc3
 networkx
+statsmodels

@@ -30,6 +30,10 @@ This directoy contains code related to randomness and probability. Here you will
 
 This directory contains code related to trees and networds. Networks are objects that contain nodes and edges between pairs of nodes. They can be used to represent a wide variety of real-world situations, such as distribution and scheduling. The modules contained here explore how to create, characterize and search minimal paths in networks.
 
+### [Data and Statistics](data-and-statistics)
+
+This directory contains code related to data analysis and statistics. Statistics is the systematic study of data using mathematical—specifically, probability—theory There are two aspects to statistics. The first is to find numerical values that describe a set of data, including characteristics such as the center (mean or median) and spread (standard deviation or variance) of the data. The second aspect of statistics is inference, describing a much larger set of data (a population) using a relatively small sample dataset. The modules contained here explore how to analyze data and derive statistics using scipy, pandas, matplotlib and bokeh.
+
 License
 =======
 [The MIT License](LICENSE)
