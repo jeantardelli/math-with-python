@@ -10,3 +10,4 @@ pymc3
 networkx
 statsmodels
 fbprophet
+shapely
