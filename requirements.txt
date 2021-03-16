@@ -9,3 +9,4 @@ sympy
 pymc3
 networkx
 statsmodels
+fbprophet

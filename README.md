@@ -34,6 +34,9 @@ This directory contains code related to trees and networds. Networks are objects
 
 This directory contains code related to data analysis and statistics. Statistics is the systematic study of data using mathematical—specifically, probability—theory There are two aspects to statistics. The first is to find numerical values that describe a set of data, including characteristics such as the center (mean or median) and spread (standard deviation or variance) of the data. The second aspect of statistics is inference, describing a much larger set of data (a population) using a relatively small sample dataset. The modules contained here explore how to analyze data and derive statistics using scipy, pandas, matplotlib and bokeh.
 
+### [Regression and Forecasting](regression-and-forecasting)
+This directory contains recipes that allow the sistematic understanding of the relationship between two sets of data such as linear regression, multilinear regression and classification using logarithmic regression. Besides general approach to sets of data, some recipes illustrates how to analyze and model time series data (a specialized class of regression) such as ARMA, ARIMA and SARIMA.
+
 License
 =======
 [The MIT License](LICENSE)
