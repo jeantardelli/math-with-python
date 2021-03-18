@@ -11,3 +11,4 @@ networkx
 statsmodels
 fbprophet
 shapely
+scikit-image
