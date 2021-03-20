@@ -37,6 +37,9 @@ This directory contains code related to data analysis and statistics. Statistics
 ### [Regression and Forecasting](regression-and-forecasting)
 This directory contains recipes that allow the sistematic understanding of the relationship between two sets of data such as linear regression, multilinear regression and classification using logarithmic regression. Besides general approach to sets of data, some recipes illustrates how to analyze and model time series data (a specialized class of regression) such as ARMA, ARIMA and SARIMA.
 
+### [Geometric Problems](geometric-problems)
+This directory describes solutions to several problems concerning two-dimensional geometry. Geometry is a branch of mathematics concerned with the characteristics of points, lines, and other figures (shapes), the interaction between such figures, and the transformation of such figures.
+
 License
 =======
 [The MIT License](LICENSE)
