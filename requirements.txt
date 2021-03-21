@@ -12,3 +12,4 @@ statsmodels
 fbprophet
 shapely
 scikit-image
+nashpy
