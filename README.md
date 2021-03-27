@@ -40,6 +40,9 @@ This directory contains recipes that allow the sistematic understanding of the r
 ### [Geometric Problems](geometric-problems)
 This directory describes solutions to several problems concerning two-dimensional geometry. Geometry is a branch of mathematics concerned with the characteristics of points, lines, and other figures (shapes), the interaction between such figures, and the transformation of such figures.
 
+### [Finding Optimal Solutions](finding-optimal-solutions)
+This directory contains various methods for finding the best outcome in a given situation, a process called optimization, such as Minimizing a simple linear function or a non-linear function. Using gradient descent methods in optimization or using least squares to fit a curve to data. And, finally, analyzing simple two-player games and computing Nash equilibria.
+
 License
 =======
 [The MIT License](LICENSE)
