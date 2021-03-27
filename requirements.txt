@@ -13,3 +13,13 @@ fbprophet
 shapely
 scikit-image
 nashpy
+pint
+uncertainties
+netCDF4
+xarray
+geopandas
+geoplot
+papermill
+cerberus
+faust
+cython
