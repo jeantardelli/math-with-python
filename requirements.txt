@@ -15,6 +15,7 @@ scikit-image
 nashpy
 pint
 uncertainties
+dask[complete]
 netCDF4
 xarray
 geopandas
