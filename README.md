@@ -43,6 +43,9 @@ This directory describes solutions to several problems concerning two-dimensiona
 ### [Finding Optimal Solutions](finding-optimal-solutions)
 This directory contains various methods for finding the best outcome in a given situation, a process called optimization, such as Minimizing a simple linear function or a non-linear function. Using gradient descent methods in optimization or using least squares to fit a curve to data. And, finally, analyzing simple two-player games and computing Nash equilibria.
 
+### [Miscellaneous Topics](miscellaneous-topics)
+This directory contains several topics that don't fit within the previous categories but that help computation and optimization in the execution of code. Some of these topics include how to keep track of units with Pint, how to execute Jupyter Notebooks as scripts, how to work with data streams, how to accelerate code with Cython or distribution computation with Dask.
+
 License
 =======
 [The MIT License](LICENSE)
